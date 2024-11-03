@@ -54,5 +54,85 @@ ZozoNEXT, öğretmenler ve öğrenciler için tasarlanmış, yapay zeka destekli
 ## Kullanım
 Uygulamada, öğretmenler ve öğrenciler farklı kullanıcı profilleri ile giriş yapabilirler. Öğretmenler ders planı oluşturabilir, yazılı sınavlar hazırlayabilir ve öğrenci performansını analiz edebilirken; öğrenciler ise sınavlara katılabilir, performanslarını takip edebilir ve Zozo asistanı ile eksiklerini giderebilirler.
 
+## Ekran Görüntüleri
+
+<table>
+  <tr>
+    <td>1</td>
+     <td>2</td>
+     <td>3</td>  
+  <tr>
+    <td><img src="assets/presentation/1.png" width="300" height="600"></td>
+    <td><img src="assets/presentation/2.png" width="300" height="600"></td>
+    <td><img src="assets/presentation/3.png" width="300" height="600"></td>   
+ </table>
+
+<table>
+  <tr>
+    <td>4</td>
+     <td>5</td>
+     <td>6</td> 
+  <tr>
+    <td><img src="assets/presentation/4.png" width="300" height="600"></td>
+    <td><img src="assets/presentation/5.png" width="300" height="600"></td>
+    <td><img src="assets/presentation/6.png" width="300" height="600"></td>
+ </table>
+  
+<table>
+  <tr>
+    <td>7</td>
+     <td>8</td>
+     <td>9</td> 
+  <tr>
+    <td><img src="assets/presentation/7.png" width="300" height="600"></td>
+    <td><img src="assets/presentation/8.png" width="300" height="600"></td>
+    <td><img src="assets/presentation/9.png" width="300" height="600"></td>
+ </table>
+
+ <table>
+  <tr>
+    <td>10</td>
+     <td>11</td>
+     <td>12</td> 
+  <tr>
+    <td><img src="assets/presentation/10.png" width="300" height="600"></td>
+    <td><img src="assets/presentation/11.png" width="300" height="600"></td>
+    <td><img src="assets/presentation/12.png" width="300" height="600"></td>
+ </table>
+
+ <table>
+  <tr>
+    <td>13</td>
+     <td>14</td>
+     <td>15</td> 
+  <tr>
+    <td><img src="assets/presentation/13.png" width="300" height="600"></td>
+    <td><img src="assets/presentation/14.png" width="300" height="600"></td>
+    <td><img src="assets/presentation/15.png" width="300" height="600"></td>
+ </table>
+
+ <table>
+  <tr>
+    <td>16</td>
+     <td>17</td>
+     <td>18</td> 
+  <tr>
+    <td><img src="assets/presentation/16.png" width="300" height="600"></td>
+    <td><img src="assets/presentation/17.png" width="300" height="600"></td>
+    <td><img src="assets/presentation/18.png" width="300" height="600"></td>
+ </table>
+
+ <table>
+  <tr>
+    <td>19</td>
+     <td>20</td>
+     <td>21</td> 
+  <tr>
+    <td><img src="assets/presentation/19.png" width="300" height="600"></td>
+    <td><img src="assets/presentation/20.png" width="300" height="600"></td>
+    <td><img src="assets/presentation/21.png" width="300" height="600"></td>
+ </table>
+
+
 ## İletişim
 Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen e-posta ile iletişime geçin: [hsyn.kbulut@gmail.com](mailto:hsyn.kbulut@gmail.com)
